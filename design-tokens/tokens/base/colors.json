@@ -1,0 +1,494 @@
+{
+  "base": {
+    "color": {
+      "neutral": {
+        "50": {
+          "value": "#fcfbfd",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#f1f1f1",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#d6d6d6",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#bbbbbc",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#a1a1a2",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#888889",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#707071",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#58575a",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#424244",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#2c2b2e",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "950": {
+          "value": "#1e1e20",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "white": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "black": {
+          "value": "#111111",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        }
+      },
+      "blue": {
+        "50": {
+          "value": "#edf0fd",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#d7def9",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#aebcf4",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#869bee",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#5e7ae9",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#3659e3",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#1d40ce",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#1734a6",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#11277d",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#0c1b55",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "950": {
+          "value": "#091543",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        }
+      },
+      "brand": {
+        "50": {
+          "value": "#fae9e6",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#f4cfc8",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#eda597",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#ea7259",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#f05537",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#d0462b",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#ad361f",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#8b2c18",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#6c2213",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#4a170d",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "950": {
+          "value": "#3d130b",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        }
+      },
+      "green": {
+        "50": {
+          "value": "#f2fdf8",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#e5fbf1",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#c6f6e1",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#a8f0d1",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#7ce9ba",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#4be1a0",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#22cd83",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#1fb875",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#19955f",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#126d46",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "950": {
+          "value": "#0d4f32",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        }
+      },
+      "yellow": {
+        "50": {
+          "value": "#fffceb",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#fffae0",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#fff4bd",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#ffed94",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#ffe66b",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#ffde3b",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#f0c800",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#d1ae00",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#ad9100",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#806a00",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "950": {
+          "value": "#574800",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        }
+      },
+      "red": {
+        "50": {
+          "value": "#fce9eb",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#f9d7dc",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#f2abb4",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#ed8391",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#e65669",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#e02e46",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#c31d33",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#a0182a",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#78121f",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#540d16",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "950": {
+          "value": "#3e0910",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        }
+      },
+      "violet": {
+        "50": {
+          "value": "#f3ecfd",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "100": {
+          "value": "#e6dafc",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "200": {
+          "value": "#cab0f8",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "300": {
+          "value": "#b18af4",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "400": {
+          "value": "#9560f1",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "500": {
+          "value": "#7b3aed",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "600": {
+          "value": "#5f14e0",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "700": {
+          "value": "#4c11b6",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "800": {
+          "value": "#3a0b89",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "900": {
+          "value": "#28095d",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        },
+        "950": {
+          "value": "#1e0646",
+          "type": "color",
+          "parent": "color primitives/Default",
+          "description": ""
+        }
+      }
+    }
+  }
+}

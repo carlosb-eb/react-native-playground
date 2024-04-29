@@ -1,0 +1,115 @@
+{
+  "theme": {
+    "typography": {
+      "heading-xl": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.extrabold}",
+          "fontSize": "{base.typography.font-size.80}",
+          "letterSpacing": "{base.typography.letter-spacing.default}",
+          "lineHeight": "{base.typography.line-height.70}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (32px size and 36px line height)."
+      },
+      "heading-lg": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.extrabold}",
+          "fontSize": "{base.typography.font-size.70}",
+          "lineHeight": "{base.typography.line-height.60}",
+          "letterSpacing": "{base.typography.letter-spacing.default}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (28px size and 32px line height)."
+      },
+      "heading-md": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.bold}",
+          "fontSize": "{base.typography.font-size.60}",
+          "lineHeight": "{base.typography.line-height.50}",
+          "letterSpacing": "{base.typography.letter-spacing.default}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (24px size and 28px line height)."
+      },
+      "heading-sm": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.bold}",
+          "fontSize": "{base.typography.font-size.50}",
+          "lineHeight": "{base.typography.line-height.40}",
+          "letterSpacing": "{base.typography.letter-spacing.default}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (20px size and 24px line height)."
+      },
+      "body-lg": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.regular}",
+          "fontSize": "{base.typography.font-size.50}",
+          "lineHeight": "{base.typography.line-height.40}",
+          "letterSpacing": "{base.typography.letter-spacing.default}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (20px size and 24px line height)."
+      },
+      "body-md": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.regular}",
+          "fontSize": "{base.typography.font-size.40}",
+          "lineHeight": "{base.typography.line-height.40}",
+          "letterSpacing": "{base.typography.letter-spacing.default}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (16px size and 24px line height."
+      },
+      "body-md-bold": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.bold}",
+          "fontSize": "{base.typography.font-size.40}",
+          "lineHeight": "{base.typography.line-height.40}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (16px size and 24px line height)."
+      },
+      "body-sm": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.regular}",
+          "fontSize": "{base.typography.font-size.30}",
+          "lineHeight": "{base.typography.line-height.30}",
+          "letterSpacing": "{base.typography.letter-spacing.default}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (14px size and 20px line height)."
+      },
+      "body-sm-bold": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.bold}",
+          "fontSize": "{base.typography.font-size.30}",
+          "lineHeight": "{base.typography.line-height.30}",
+          "letterSpacing": "{base.typography.letter-spacing.default}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (14px size and 20px line height)."
+      },
+      "body-xs": {
+        "value": {
+          "fontFamily": "{base.typography.font-family.base}",
+          "fontWeight": "{base.typography.font-weight.regular}",
+          "fontSize": "{base.typography.font-size.20}",
+          "lineHeight": "{base.typography.line-height.20}",
+          "letterSpacing": "{base.typography.letter-spacing.default}"
+        },
+        "type": "typography",
+        "description": "Design equivalent has fixed values rather than relative (12px size and 16px line height)."
+      }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "theme": {
+    "spacing": {
+      "xxx-sm": {
+        "value": "{base.size.2}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "xx-sm": {
+        "value": "{base.size.3}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "x-sm": {
+        "value": "{base.size.4}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "sm": {
+        "value": "{base.size.5}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "md": {
+        "value": "{base.size.6}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "lg": {
+        "value": "{base.size.8}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "x-lg": {
+        "value": "{base.size.10}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "xx-lg": {
+        "value": "{base.size.12}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "xxx-lg": {
+        "value": "{base.size.14}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      }
+    },
+    "sizing": {
+      "icon": {
+        "x-sm": {
+          "value": "{base.size.5}",
+          "type": "dimension",
+          "parent": "layout/Default",
+          "description": ""
+        },
+        "sm": {
+          "value": "{base.size.6}",
+          "type": "dimension",
+          "parent": "layout/Default",
+          "description": ""
+        },
+        "md": {
+          "value": "{base.size.8}",
+          "type": "dimension",
+          "parent": "layout/Default",
+          "description": ""
+        },
+        "lg": {
+          "value": "{base.size.12}",
+          "type": "dimension",
+          "parent": "layout/Default",
+          "description": ""
+        },
+        "x-lg": {
+          "value": "{base.size.13}",
+          "type": "dimension",
+          "parent": "layout/Default",
+          "description": ""
+        }
+      }
+    },
+    "radius": {
+      "x-sm": {
+        "value": "{base.size.2}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "sm": {
+        "value": "{base.size.3}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "md": {
+        "value": "{base.size.4}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "lg": {
+        "value": "{base.size.5}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "round": {
+        "value": "624.9375rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "xl": {
+        "value": "{base.size.6}",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "base": {
+    "size": {
+      "1": {
+        "value": "0.0625rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "2": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "3": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "4": {
+        "value": "0.5rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "5": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "6": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "7": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "8": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "9": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "10": {
+        "value": "2rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "11": {
+        "value": "2.25rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "12": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "13": {
+        "value": "2.75rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "14": {
+        "value": "3rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "15": {
+        "value": "3.25rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "16": {
+        "value": "3.5rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "17": {
+        "value": "3.75rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "18": {
+        "value": "4rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "19": {
+        "value": "4.25rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "20": {
+        "value": "4.5rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "21": {
+        "value": "4.75rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "22": {
+        "value": "5rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "23": {
+        "value": "5.25rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "24": {
+        "value": "5.5rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "25": {
+        "value": "5.75rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      },
+      "26": {
+        "value": "6rem",
+        "type": "dimension",
+        "parent": "layout/Default",
+        "description": ""
+      }
+    }
+  }
+}

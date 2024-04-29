@@ -1,0 +1,362 @@
+{
+  "theme": {
+    "color": {
+      "dark": {
+        "bg": {
+          "base": {
+            "value": "{base.color.neutral.black}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "sunken": {
+            "value": "{base.color.neutral.950}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "inverse": {
+            "value": "{base.color.neutral.white}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "raised": {
+            "value": "{theme.color.dark.bg.sunken}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "danger": {
+            "value": "{theme.color.dark.danger.strong}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "warning": {
+            "value": "{theme.color.dark.warning.emphasis}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "success": {
+            "value": "{theme.color.dark.success.empahsis}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "opportunity": {
+            "value": "{theme.color.dark.opportunity.emphasis}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          }
+        },
+        "fg": {
+          "base": {
+            "value": "{base.color.neutral.white}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "muted": {
+            "value": "{base.color.neutral.100}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "subtle": {
+            "value": "{base.color.neutral.200}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "inverse": {
+            "value": "{base.color.neutral.black}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "danger": {
+            "value": "{theme.color.dark.danger.base}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          }
+        },
+        "border": {
+          "base": {
+            "value": "{base.color.neutral.700}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "danger": {
+            "value": "{theme.color.dark.danger.base}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "warning": {
+            "value": "{theme.color.dark.warning.base}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "success": {
+            "value": "{theme.color.dark.success.base}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "opportunity": {
+            "value": "{theme.color.dark.opportunity.base}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          }
+        },
+        "action": {
+          "fg": {
+            "default": {
+              "value": "{base.color.neutral.white}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "placeholder": {
+              "value": "{base.color.neutral.600}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{base.color.neutral.500}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "inverse": {
+              "value": "{base.color.neutral.black}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "active": {
+              "value": "{base.color.blue.500}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            }
+          },
+          "bg": {
+            "default": {
+              "value": "{base.color.neutral.black}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "selected": {
+              "value": "{base.color.blue.500}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{base.color.neutral.700}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{base.color.neutral.500}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "hover": {
+              "value": "{base.color.neutral.300}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "active-focus": {
+              "value": "{base.color.neutral.200}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{base.color.neutral.800}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            },
+            "danger": {
+              "value": "{theme.color.dark.danger.muted}",
+              "type": "color",
+              "parent": "color semantics/Dark",
+              "description": ""
+            }
+          }
+        },
+        "opportunity": {
+          "faint": {
+            "value": "{base.color.blue.950}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "base": {
+            "value": "{base.color.blue.500}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "muted": {
+            "value": "{base.color.blue.600}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "emphasis": {
+            "value": "{base.color.blue.400}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          }
+        },
+        "brand": {
+          "base": {
+            "value": "{base.color.brand.500}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "faint": {
+            "value": "{base.color.brand.950}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "emphasis": {
+            "value": "{base.color.brand.400}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "strong": {
+            "value": "{base.color.brand.300}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          }
+        },
+        "danger": {
+          "base": {
+            "value": "{base.color.red.500}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "emphasis": {
+            "value": "{base.color.red.400}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "strong": {
+            "value": "{base.color.red.300}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "faint": {
+            "value": "{base.color.red.950}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "muted": {
+            "value": "{base.color.red.600}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "on-danger": {
+            "value": "{base.color.neutral.white}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          }
+        },
+        "success": {
+          "base": {
+            "value": "{base.color.green.500}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "empahsis": {
+            "value": "{base.color.green.400}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "muted": {
+            "value": "{base.color.green.600}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "faint": {
+            "value": "{base.color.green.950}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          }
+        },
+        "warning": {
+          "emphasis": {
+            "value": "{base.color.yellow.400}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "base": {
+            "value": "{base.color.yellow.500}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "muted": {
+            "value": "{base.color.yellow.600}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          },
+          "faint": {
+            "value": "{base.color.yellow.950}",
+            "type": "color",
+            "parent": "color semantics/Dark",
+            "description": ""
+          }
+        },
+        "main": {
+          "value": "#585163",
+          "type": "color",
+          "parent": "color semantics/Dark",
+          "description": ""
+        },
+        "secondary": {
+          "value": "#9d99a3",
+          "type": "color",
+          "parent": "color semantics/Dark",
+          "description": ""
+        }
+      }
+    }
+  }
+}
