@@ -10,9 +10,9 @@ export default ({ config }) => ({
       "expo-font",
       {
         fonts: [
-          "./assets/fonts/Neue Plak Regular.woff",
-          "./assets/fonts/Neue Plak Light.woff",
-          "./assets/fonts/Neue Plak Bold.woff",
+          "./assets/fonts/NeuePlakRegular.ttf",
+          "./assets/fonts/NeuePlakLight.ttf",
+          "./assets/fonts/NeuePlakBold.ttf",
         ],
       },
     ],
