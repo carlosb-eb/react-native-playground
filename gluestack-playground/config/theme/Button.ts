@@ -1,7 +1,7 @@
 import { createStyle } from "@gluestack-style/react";
 
 export const Button = createStyle({
-  borderRadius: "$sm",
+  borderRadius: "$md",
   backgroundColor: "$primary400",
   flexDirection: "row",
   justifyContent: "center",
@@ -37,11 +37,11 @@ export const Button = createStyle({
     action: {
       primary: {
         bg: "$primary400",
-        borderColor: "$primary300",
+        borderColor: "$primary400",
 
         ":hover": {
           bg: "$primary600",
-          borderColor: "$primary400",
+          borderColor: "$primary500",
         },
 
         ":active": {
@@ -50,12 +50,12 @@ export const Button = createStyle({
         },
 
         _text: {
-          color: "$primary600",
+          color: "$primary500",
           ":hover": {
-            color: "$primary600",
+            color: "$primary500",
           },
           ":active": {
-            color: "$primary700",
+            color: "$primary500",
           },
         },
 
@@ -451,12 +451,12 @@ export const Button = createStyle({
       },
       solid: {
         _text: {
-          color: "$textLight0",
+          color: "$primary500",
           ":hover": {
-            color: "$textLight0",
+            color: "$primary500",
           },
           ":active": {
-            color: "$textLight0",
+            color: "$primary500",
           },
         },
         _spinner: {

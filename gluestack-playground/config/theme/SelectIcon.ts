@@ -1,7 +1,8 @@
-import { createStyle } from '@gluestack-style/react';
+import { createStyle } from "@gluestack-style/react";
 
 export const SelectIcon = createStyle({
   props: {
-    size: 'md',
+    size: "md",
   },
+  color: "$light800",
 });
